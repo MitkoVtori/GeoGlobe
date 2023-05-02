@@ -1,2 +1,1 @@
 # GeoGlobe
-**Coming soon...**
